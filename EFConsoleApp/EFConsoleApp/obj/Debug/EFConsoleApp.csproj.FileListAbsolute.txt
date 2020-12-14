@@ -1,0 +1,12 @@
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\bin\Debug\EFConsoleApp.exe.config
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\bin\Debug\EFConsoleApp.exe
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\bin\Debug\EFConsoleApp.pdb
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\obj\Debug\EFConsoleApp.csprojAssemblyReference.cache
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\obj\Debug\EFConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\obj\Debug\EFConsoleApp.csproj.CopyComplete
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\obj\Debug\EFConsoleApp.exe
+C:\Users\xterr\Desktop\EFConsoleAssignment\EFConsoleApp\EFConsoleApp\obj\Debug\EFConsoleApp.pdb
